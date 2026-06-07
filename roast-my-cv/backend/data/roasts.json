@@ -1,0 +1,94 @@
+[
+  {
+    "session_id": "56893dc6-7713-4d8f-bfb2-9b8ce52ada07",
+    "cv_text": "Muhammad Bilal\nmethebilalashiq@gmail.com | +923088660209 | bilal-ashiq | thecallmeBilalAshiq | Faisalabad\nOBJECTIVE:\nFinal-year Computer Science student at FAST NUCES with hands-on experience in software development,\nAI/ML, and full-stack technologies. Seeking Software Developer or AI Engineer roles to build intelligent,\nscalable solutions and drive real-world impact.\nEDUCATION\nBS (Computer Science)-CGPA:3.20/4.00(80%) 2022-2026\nFAST National University of Computer and Emerging Sciences\nF.Sc.(Pre-Engineering)-960/1100(87.27%) 2019-2021\nGovt. Boys Degree College, Chowk Azam, Layyah, BISE D.G. Khan\nMatriculation (Science)-1062/1100 (96.55%) 2017-2019\nBISE D.G. Khan\nSkills & Interests\nProgrammingLanguages: Python, C++, Java\nWeb Development : HTML, CSS, JavaScript, Flask, Spring, WordPress\nDatabases : SQL, MongoDB, SQLAlchemy\nTools &Technologies: Git, n8n, react.js, next.js, docker, Canva, Linux, Oracle, PyTorch, Figma\nResearch Work\nResearch Assistant(RA)\u2013Junior Software Engineer\nFAST NUCESAugust 2025 \u2013 December 2025\n4-month paid research on ML-driven gravitational wave analytics; built data pipelines for LIGO/Virgo\ndatasets and integrated models using Python, TensorFlow, and PyTorch with a multidisciplinary team.\nEXPERIENCE\nAI Internee July 2025 \u2013 August 2025\nShopilam (NICF,UniversityofAgriculture,Faisalabad)\nOnsite internship under the supervision of the founder and IT team, building Whatsopify - a WhatsApp\nchrome extension. I worked on backend (Python FastAPI) and a Chatbot specially OCR features.\nTeachingAssistant\nFAST NUCES\n1. Information Security &Business Math-II Spring 2026\n2. Theory of Automata &Numerical Computing Fall-2025\n3. Technical and Business Writing &Linear Algebra Spring-2025\n4. Calculus and Analytical Geometry Fall-2023 & 2024\nDelivered lectures and managed assessments for large student cohorts, driving improved academic outcomes\nand building strong leadership and communication skills.\nLEADERSHIP & ACTIVITIES\nPresident-AMNESTY International FAST Chapter June 2025 \u2013 Present\n\u00b7Led a 20-member team, organizing seminars and campaigns to drive human rights awareness.\n\u00b7Built public speaking, team management, & leadership through hands-on initiative ownership.\nTeam Leader atJob Fair -entracloud April 2024 & April 2025\n\u00b7Led entracloud team at FAST Islamabad and CFD Job Fairs to interview final-year students.\n\u00b7Mentored 25-30 interns in AI, Data Structures, and Databases as a supervisor at entracloud .\nPROJECTS :\n\u00b7AI-powered hiring system with automated job posting, CV parsing, and candidate scoring.\n\u00b7Includes online test with webcam head and eye detection and job training post-hiring.\n\u00b7Built a clothing store ( paidproject ) with catalog, cart, checkout, and order tracking.\n\u00b7Integrated payment, inventory, and responsive design for better performance and SEO.\n\u00b7Built a Transformer-based Urdu chatbot with preprocessing and modeling for low-resource NLP.\n\u00b7Trained in PyTorch and deployed with RTL support using Gradio on Hugging Face Spaces.\n\u00b7A RAG-based diagnostic system on clinical notes using the MIMIC-IV-Ext-Direct dataset.\n\u00b7Integrated FAISS-powered search with a Flan-T5 model and deployed via Gradio interface.\n\u00b7An AI-powered physical privacy protection system using OpenCV, YOLO, and MediaPipe.\n\u00b7Detecting shoulder surfing and unauthorized screen viewing in real time.\n\u00b7A Seq2Seq image captioning system using ResNet50 feature extraction.\n\u00b7I used LSTM decoder trained on Flickr30k dataset, achieving BLEU-4 of 0.64.\n\u00b7Developed a task management app with Flask, SQLAlchemy (CRUD), and a responsive UI\n\u00b7Developed an IS project using GPT-2 to classify URLs as benign, defacement, or phishing.\n\u00b7Fine-tuned model with custom tokenization and tokens for accurate URL classification.\n\u00b7Designed a user-friendly food ordering app prototype in Figma with a clean layout.\n\u00b7Developed flour mill management system with Java framework, Spring Boot.\nCERTIFICATION & AWARDS\n\u00b7Python and Flask - Udemy \u00b7Git and GitHub - Google\n\u00b7AI in the classroom \u2013 Canva \u00b7WordPress \u2013 Digiskills\n\u00b7Machine Learning Foundations - AWS \u00b7Deep Learning Specialization \u2013 Udemy\n\ue25f1st Position winner in the Idea Competition at FAST-NUCES for developing NeuroSecureNeuroHire \u2013Final Year Project\nMERN (Next.js and Python (AI))August 2025 \u2013 Present\nMashoor Fabrics -E-Commerce ClothingStore\nWordPress,WooCommerceLive Ecommerce Store\nUrdu Conversational Chatbot\u2013Multi Head Attention Medium Blog\nRAG for diagnostic reasoningon clinical notes Colab Code File\nNeuroSecure -Secure Screen Monitoring| OpenCV,YOLO,MediaPipe Deployed Link\nViewToVerse -Image Captioning| PyTorch,ResNet50,LSTM Hugging Face Model\nTo-DoApplication -Python (Flask &SqlAlchemy) GitHub-Repo\nPhishingHunter \u2013AI and Security GitHub-Repo\nFood PointFront-End \u2013Figma Figma-File\nFlour IndustrySystem-SpringBoot-Java GitHub-Repo",
+    "sections": {
+      "summary": "Final-year Computer Science student at FAST NUCES with hands-on experience in software development,\nAI/ML, and full-stack technologies. Seeking Software Developer or AI Engineer roles to build intelligent,\nscalable solutions and drive real-world impact.",
+      "experience": "AI Internee July 2025 \u2013 August 2025\nShopilam (NICF,UniversityofAgriculture,Faisalabad)\nOnsite internship under the supervision of the founder and IT team, building Whatsopify - a WhatsApp\nchrome extension. I worked on backend (Python FastAPI) and a Chatbot specially OCR features.\nTeachingAssistant\nFAST NUCES\n1. Information Security &Business Math-II Spring 2026\n2. Theory of Automata &Numerical Computing Fall-2025\n3. Technical and Business Writing &Linear Algebra Spring-2025\n4. Calculus and Analytical Geometry Fall-2023 & 2024\nDelivered lectures and managed assessments for large student cohorts, driving improved academic outcomes\nand building strong leadership and communication skills.\nLEADERSHIP & ACTIVITIES\nPresident-AMNESTY International FAST Chapter June 2025 \u2013 Present\n\u00b7Led a 20-member team, organizing seminars and campaigns to drive human rights awareness.\n\u00b7Built public speaking, team management, & leadership through hands-on initiative ownership.\nTeam Leader atJob Fair -entracloud April 2024 & April 2025\n\u00b7Led entracloud team at FAST Islamabad and CFD Job Fairs to interview final-year students.\n\u00b7Mentored 25-30 interns in AI, Data Structures, and Databases as a supervisor at entracloud .",
+      "education": "BS (Computer Science)-CGPA:3.20/4.00(80%) 2022-2026\nFAST National University of Computer and Emerging Sciences\nF.Sc.(Pre-Engineering)-960/1100(87.27%) 2019-2021\nGovt. Boys Degree College, Chowk Azam, Layyah, BISE D.G. Khan\nMatriculation (Science)-1062/1100 (96.55%) 2017-2019\nBISE D.G. Khan\nSkills & Interests\nProgrammingLanguages: Python, C++, Java\nWeb Development : HTML, CSS, JavaScript, Flask, Spring, WordPress\nDatabases : SQL, MongoDB, SQLAlchemy\nTools &Technologies: Git, n8n, react.js, next.js, docker, Canva, Linux, Oracle, PyTorch, Figma\nResearch Work\nResearch Assistant(RA)\u2013Junior Software Engineer\nFAST NUCESAugust 2025 \u2013 December 2025\n4-month paid research on ML-driven gravitational wave analytics; built data pipelines for LIGO/Virgo\ndatasets and integrated models using Python, TensorFlow, and PyTorch with a multidisciplinary team.",
+      "skills": "",
+      "projects": "\u00b7AI-powered hiring system with automated job posting, CV parsing, and candidate scoring.\n\u00b7Includes online test with webcam head and eye detection and job training post-hiring.\n\u00b7Built a clothing store ( paidproject ) with catalog, cart, checkout, and order tracking.\n\u00b7Integrated payment, inventory, and responsive design for better performance and SEO.\n\u00b7Built a Transformer-based Urdu chatbot with preprocessing and modeling for low-resource NLP.\n\u00b7Trained in PyTorch and deployed with RTL support using Gradio on Hugging Face Spaces.\n\u00b7A RAG-based diagnostic system on clinical notes using the MIMIC-IV-Ext-Direct dataset.\n\u00b7Integrated FAISS-powered search with a Flan-T5 model and deployed via Gradio interface.\n\u00b7An AI-powered physical privacy protection system using OpenCV, YOLO, and MediaPipe.\n\u00b7Detecting shoulder surfing and unauthorized screen viewing in real time.\n\u00b7A Seq2Seq image captioning system using ResNet50 feature extraction.\n\u00b7I used LSTM decoder trained on Flickr30k dataset, achieving BLEU-4 of 0.64.\n\u00b7Developed a task management app with Flask, SQLAlchemy (CRUD), and a responsive UI\n\u00b7Developed an IS project using GPT-2 to classify URLs as benign, defacement, or phishing.\n\u00b7Fine-tuned model with custom tokenization and tokens for accurate URL classification.\n\u00b7Designed a user-friendly food ordering app prototype in Figma with a clean layout.\n\u00b7Developed flour mill management system with Java framework, Spring Boot.\nCERTIFICATION & AWARDS\n\u00b7Python and Flask - Udemy \u00b7Git and GitHub - Google\n\u00b7AI in the classroom \u2013 Canva \u00b7WordPress \u2013 Digiskills\n\u00b7Machine Learning Foundations - AWS \u00b7Deep Learning Specialization \u2013 Udemy\n\ue25f1st Position winner in the Idea Competition at FAST-NUCES for developing NeuroSecureNeuroHire \u2013Final Year Project\nMERN (Next.js and Python (AI))August 2025 \u2013 Present\nMashoor Fabrics -E-Commerce ClothingStore\nWordPress,WooCommerceLive Ecommerce Store\nUrdu Conversational Chatbot\u2013Multi Head Attention Medium Blog\nRAG for diagnostic reasoningon clinical notes Colab Code File\nNeuroSecure -Secure Screen Monitoring| OpenCV,YOLO,MediaPipe Deployed Link\nViewToVerse -Image Captioning| PyTorch,ResNet50,LSTM Hugging Face Model\nTo-DoApplication -Python (Flask &SqlAlchemy) GitHub-Repo\nPhishingHunter \u2013AI and Security GitHub-Repo\nFood PointFront-End \u2013Figma Figma-File\nFlour IndustrySystem-SpringBoot-Java GitHub-Repo"
+    },
+    "created_at": "2026-06-07T21:32:10.706777+00:00",
+    "upvotes": 0,
+    "is_public": false,
+    "roast": "This CV reads like it was assembled during a calendar reminder called 'panic'. The content is there, but the impact needs sharper numbers, cleaner structure, and fewer vague claims. Right now the strongest line might be: 'Muhammad Bilal methebilalashiq@gmail.com | +923088660209 | bilal-ashiq | thecallmeBilalAshiq | Faisalabad OBJECTIVE: Final-year Computer Science student at FAST...' and even that needs a gym membership.",
+    "scores": {
+      "skills": 6,
+      "experience": 5,
+      "formatting": 6,
+      "impact": 4,
+      "overall": 5
+    },
+    "serious_feedback": [
+      "Add measurable outcomes to your experience bullets.",
+      "Put your strongest skills and projects near the top.",
+      "Replace generic responsibilities with concrete achievements."
+    ],
+    "section_feedback": {
+      "summary": [
+        "Make the summary specific to the role you want."
+      ],
+      "experience": [
+        "Use action verbs and numbers for each major bullet."
+      ],
+      "skills": [
+        "Group skills by category and remove anything outdated."
+      ],
+      "projects": [
+        "Explain the problem, tools used, and result."
+      ],
+      "education": [
+        "Keep this concise unless you are early career."
+      ]
+    },
+    "verdict": "Promising ingredients, questionable plating.",
+    "intensity": "medium"
+  },
+  {
+    "session_id": "216c667a-f519-4685-81c5-0cb699d73244",
+    "cv_text": "Forename SURNAME \ne-mail: professional email address tel: UK landline or mobile \nEducation and Qualifications \n2000-2003 University/Universities Degree and Subject \n Location; City and Country applicable additional info\n \nWork Experience \n \nSep-07 \u2013 Aug-10 Official Company Name City, Country \nJob title \n\uf0b7 Please use 3 -4 bullets maximum to describe your job function & \nresponsibilities \n\uf0b7 Concentrate on your achievements, and what you have distinctly \ncontributed to in each role, using quantitative examples where possible \n\uf0b7 Examples that may assist you \u2013 \n\uf0b7 \u201cAdvised client\u2019s Digital Media division on \u00a33M international expansion , \ncoordinating a team of 8 analysts during initial research phase \u201d \n\uf0b7 \u201cStructured and negotiated equip ment deal financing including credit \npurchases, rentals, and 31 lease contracts worth $745k \u201d \n \nJun-05 \u2013 Sep-07 Official Company Name City, Country \nJob title \n\uf0b7 Make sure your work experience comes to life, consider what someone \nreading your CV would be most interested in \n\uf0b7 Avoid any negativity or short comings on your CV that may raise the \nwrong questions \n\uf0b7 Try to avoid having your CV read like a job description \n \nMar-04 \u2013 Jun-05 Official Company Name City, Country \nJob title \n\uf0b7 Try to ensure your CV is easy to scan, start bullet points with relevant \naction verbs \n\uf0b7 You can also include significant relevant voluntary experience in your \nwork experience if it is applicable \n\uf0b7 Try to avoid industry jargon that may not be understood \n \nAug-03 \u2013 Mar-04 Official Company Name City, Country \nJob title \n\uf0b7 Use past tense for roles you have completed \n\uf0b7 Please set dates using the abbreviated month and two digits for the year, \nyou must include months as well as years \n\uf0b7 Make sure your CV is an accurate reflection of you and what you want to \nhighlight about your experience \n\uf0b7 Stick to facts you can easily discuss. Avoid subjective comments \n \nAdditional Information \n \nInterests: Concentrate on activities you participate in and are willing to talk about. You \nshould highlight achievements in those activities. Eg. rather than just listing \n\u2018running\u2019 say \u2018running \u2013 participa ted in several marathons, P resident of the \nOxford Runners Club \u2019 \n \nAchievements: List academic or other achievements here, for example \n First Class Honours, Previous University \n Study abroad scholarship (selected 3 out of 600 students) \n Principal Cellist of London Youth Orchestra \n \nNationality: your nationality, dual nationality, and any additional work authorization if \napplicable \nLanguages: languages other than English and ability level eg. German (fluent)",
+    "sections": {
+      "summary": "Forename SURNAME\ne-mail: professional email address tel: UK landline or mobile\nEducation and Qualifications\n2000-2003 University/Universities Degree and Subject\nLocation; City and Country applicable additional info\nWork Experience\nSep-07 \u2013 Aug-10 Official Company Name City, Country\nJob title",
+      "experience": "\uf0b7 Please use 3 -4 bullets maximum to describe your job function &\nresponsibilities\n\uf0b7 Concentrate on your achievements, and what you have distinctly\ncontributed to in each role, using quantitative examples where possible\n\uf0b7 Examples that may assist you \u2013\n\uf0b7 \u201cAdvised client\u2019s Digital Media division on \u00a33M international expansion ,\ncoordinating a team of 8 analysts during initial research phase \u201d\n\uf0b7 \u201cStructured and negotiated equip ment deal financing including credit\npurchases, rentals, and 31 lease contracts worth $745k \u201d\nJun-05 \u2013 Sep-07 Official Company Name City, Country\nJob title\n\uf0b7 Make sure your work experience comes to life, consider what someone\nreading your CV would be most interested in\n\uf0b7 Avoid any negativity or short comings on your CV that may raise the\nwrong questions\n\uf0b7 Try to avoid having your CV read like a job description\nMar-04 \u2013 Jun-05 Official Company Name City, Country\nJob title\n\uf0b7 Try to ensure your CV is easy to scan, start bullet points with relevant\naction verbs\n\uf0b7 You can also include significant relevant voluntary experience in your\nwork experience if it is applicable",
+      "education": "",
+      "skills": "",
+      "projects": ""
+    },
+    "created_at": "2026-06-07T21:34:20.279554+00:00",
+    "upvotes": 0,
+    "is_public": false,
+    "roast": "This CV reads like it was assembled during a calendar reminder called 'panic'. The content is there, but the impact needs sharper numbers, cleaner structure, and fewer vague claims. Right now the strongest line might be: 'Forename SURNAME e-mail: professional email address tel: UK landline or mobile Education and Qualifications 2000-2003 University/Universities Degree and Subject...' and even that needs a gym membership.",
+    "scores": {
+      "skills": 6,
+      "experience": 5,
+      "formatting": 6,
+      "impact": 4,
+      "overall": 5
+    },
+    "serious_feedback": [
+      "Add measurable outcomes to your experience bullets.",
+      "Put your strongest skills and projects near the top.",
+      "Replace generic responsibilities with concrete achievements."
+    ],
+    "section_feedback": {
+      "summary": [
+        "Make the summary specific to the role you want."
+      ],
+      "experience": [
+        "Use action verbs and numbers for each major bullet."
+      ],
+      "skills": [
+        "Group skills by category and remove anything outdated."
+      ],
+      "projects": [
+        "Explain the problem, tools used, and result."
+      ],
+      "education": [
+        "Keep this concise unless you are early career."
+      ]
+    },
+    "verdict": "Promising ingredients, questionable plating.",
+    "intensity": "medium"
+  }
+]

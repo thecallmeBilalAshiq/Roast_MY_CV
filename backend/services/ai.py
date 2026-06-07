@@ -1,8 +1,9 @@
 import asyncio
 import json
+from json import JSONDecodeError
 from typing import Any, AsyncGenerator, Dict
 
-from openai import AsyncOpenAI
+from openai import AsyncOpenAI, OpenAIError
 
 from models import Intensity
 from services.db import get_settings
@@ -60,17 +61,21 @@ async def generate_roast(cv_text: str, sections: Dict[str, str], intensity: Inte
         },
     }
 
-    response = await client.chat.completions.create(
-        model="gpt-4o",
-        response_format={"type": "json_object"},
-        messages=[
-            {"role": "system", "content": PROMPTS[intensity]},
-            {"role": "user", "content": json.dumps(user_prompt)},
-        ],
-        temperature=0.85,
-    )
-    content = response.choices[0].message.content or "{}"
-    parsed = json.loads(content)
+    try:
+        response = await client.chat.completions.create(
+            model="gpt-4o",
+            response_format={"type": "json_object"},
+            messages=[
+                {"role": "system", "content": PROMPTS[intensity]},
+                {"role": "user", "content": json.dumps(user_prompt)},
+            ],
+            temperature=0.85,
+        )
+        content = response.choices[0].message.content or "{}"
+        parsed = json.loads(content)
+    except (OpenAIError, JSONDecodeError, KeyError, IndexError, TypeError):
+        return fallback_result(cv_text, intensity)
+
     return normalize_result(parsed, cv_text, intensity)
 
 

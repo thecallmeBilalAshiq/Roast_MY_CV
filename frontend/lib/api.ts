@@ -88,7 +88,7 @@ export async function upvoteRoast(id: string) {
 async function getError(response: Response) {
   try {
     const data = await response.json();
-    return data.detail || "Your CV was so bad it crashed our servers.";
+    return data.detail || data.error || "Your CV was so bad it crashed our servers.";
   } catch {
     return "Your CV was so bad it crashed our servers.";
   }

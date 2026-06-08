@@ -1,0 +1,89 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Roast My CV animated hero</title>
+  <desc id="desc">A dark cinematic banner with floating cards, pulsing gradients, and CV review metrics.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="120" y1="40" x2="1480" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F" />
+      <stop offset="0.46" stop-color="#0B1D33" />
+      <stop offset="1" stop-color="#172554" />
+    </linearGradient>
+
+    <linearGradient id="glow" x1="320" y1="90" x2="1300" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.0" />
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05" />
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <filter id="blur" x="0" y="0" width="1600" height="520" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="30" />
+    </filter>
+
+    <filter id="shadow" x="0" y="0" width="1600" height="520" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="36" fill="url(#bg)" />
+  <circle cx="360" cy="150" r="190" fill="#38BDF8" fill-opacity="0.11" filter="url(#blur)">
+    <animate attributeName="cy" values="150;135;150" dur="7s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1230" cy="360" r="220" fill="#F97316" fill-opacity="0.12" filter="url(#blur)">
+    <animate attributeName="cx" values="1230;1255;1230" dur="9s" repeatCount="indefinite" />
+  </circle>
+  <rect x="120" y="88" width="1360" height="344" rx="28" fill="url(#glow)" opacity="0.9" />
+
+  <g opacity="0.12">
+    <path d="M112 128H1488" stroke="white" stroke-opacity="0.55" />
+    <path d="M112 202H1488" stroke="white" stroke-opacity="0.35" />
+    <path d="M112 276H1488" stroke="white" stroke-opacity="0.35" />
+    <path d="M112 350H1488" stroke="white" stroke-opacity="0.55" />
+  </g>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(150 116)">
+      <rect width="540" height="288" rx="28" fill="url(#card)" stroke="white" stroke-opacity="0.18" />
+      <rect x="26" y="28" width="108" height="28" rx="14" fill="url(#accent)" />
+      <text x="26" y="94" fill="white" font-size="42" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Upload CV</text>
+      <text x="26" y="136" fill="#D1D5DB" font-size="20" font-family="Inter, Segoe UI, Arial, sans-serif">PDF or DOCX in, clean parsing out.</text>
+      <rect x="26" y="170" width="488" height="18" rx="9" fill="white" fill-opacity="0.08" />
+      <rect x="26" y="170" width="360" height="18" rx="9" fill="#22D3EE" fill-opacity="0.85" />
+      <rect x="26" y="202" width="420" height="18" rx="9" fill="white" fill-opacity="0.08" />
+      <rect x="26" y="202" width="280" height="18" rx="9" fill="#A78BFA" fill-opacity="0.85" />
+      <animateTransform attributeName="transform" type="translate" values="150 116;150 108;150 116" dur="5.5s" repeatCount="indefinite" />
+    </g>
+
+    <g transform="translate(1000 104)">
+      <rect width="340" height="176" rx="26" fill="url(#card)" stroke="white" stroke-opacity="0.18" />
+      <text x="24" y="52" fill="white" font-size="30" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">AI Roast</text>
+      <text x="24" y="90" fill="#D1D5DB" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">Sharp humor, then useful feedback.</text>
+      <circle cx="278" cy="78" r="36" fill="#F97316" fill-opacity="0.9" />
+      <path d="M263 78C263 69.716 269.716 63 278 63V63C286.284 63 293 69.716 293 78V78C293 86.284 286.284 93 278 93V93C269.716 93 263 86.284 263 78Z" fill="white" fill-opacity="0.92" />
+      <animateTransform attributeName="transform" type="translate" values="1000 104;1000 118;1000 104" dur="6.4s" repeatCount="indefinite" />
+    </g>
+
+    <g transform="translate(924 304)">
+      <rect width="416" height="108" rx="24" fill="url(#card)" stroke="white" stroke-opacity="0.18" />
+      <text x="22" y="46" fill="white" font-size="24" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Scorecards + charts + share link</text>
+      <text x="22" y="78" fill="#D1D5DB" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">Professional output that is easy to post and compare.</text>
+      <animateTransform attributeName="transform" type="translate" values="924 304;924 292;924 304" dur="7.2s" repeatCount="indefinite" />
+    </g>
+  </g>
+
+  <g transform="translate(132 442)">
+    <rect width="1336" height="20" rx="10" fill="white" fill-opacity="0.08" />
+    <rect width="900" height="20" rx="10" fill="url(#accent)">
+      <animate attributeName="width" values="680;980;680" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>

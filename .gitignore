@@ -6,6 +6,7 @@ backend/.venv/
 .vscode
 frontend/node_modules/
 frontend/.next/
+backend/data/*.json
 __pycache__/
 *.py[cod]
 *$py.class

@@ -6,23 +6,24 @@
 
 <p align="center">
 	<a href="https://nextjs.org"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-frontend-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-	<a href="https://fastapi.tiangolo.com"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-backend-0F766E?style=for-the-badge&logo=fastapi&logoColor=white"></a>
-	<a href="https://www.mongodb.com"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-data-116149?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-	<a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-compose-0EA5E9?style=for-the-badge&logo=docker&logoColor=white"></a>
+	<a href="https://fastapi.tiangolo.com"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-bright%20backend-0891B2?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+	<a href="https://www.mongodb.com"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-data%20engine-16A34A?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+	<a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-compose%20stack-0EA5E9?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
 <p align="center">
-	A cinematic AI CV review app that turns a resume upload into a sharp roast, serious feedback, visual scores, shareable cards, and a hall-of-shame leaderboard.
+	<strong>Bright. Animated. Professional.</strong> A cinematic AI CV review app that turns a resume upload into a sharp roast, serious feedback, visual scores, shareable cards, and a hall-of-shame leaderboard.
 </p>
 
-## Why it feels premium
+## ✨ Why it feels premium
 
 - Animated visual identity with a custom SVG hero that makes the project feel like a product launch.
+- Bright neon gradients and layered cards that keep the page lively.
 - Fast, clean flow from upload to roast to shareable result page.
 - Balanced tone: funny first, useful second, with scorecards and charts that make the feedback actionable.
 - Production-friendly stack with Docker Compose, MongoDB, FastAPI, and a Next.js frontend.
 
-## Product Flow
+## 🎬 Product Flow
 
 ```mermaid
 flowchart LR
@@ -32,7 +33,7 @@ flowchart LR
 	D --> E[Public hall of shame]
 ```
 
-## What You Get
+## 🎨 What You Get
 
 <table>
 	<tr>
@@ -45,14 +46,20 @@ flowchart LR
 	</tr>
 </table>
 
-## Stack
+## 🧰 Stack
 
 - Frontend: Next.js App Router, React, Tailwind CSS, Recharts
 - Backend: FastAPI, Motor, PyPDF2, python-docx, OpenAI
 - Database: MongoDB
 - Runtime: Docker Compose
 
-## Quick Start
+## 🌈 Visual Highlights
+
+- Vibrant hero art with animated gradients and floating panels.
+- Color-rich badges that make the stack feel polished and modern.
+- A structured layout that keeps the page readable while still feeling premium.
+
+## 🚀 Quick Start
 
 ```bash
 cd Roast_MY_CV
@@ -67,7 +74,7 @@ Open:
 - Frontend: http://localhost:3000
 - Backend health: http://localhost:8000/health
 
-## Local Development
+## 🛠 Local Development
 
 Run MongoDB locally or with Docker:
 
@@ -93,7 +100,7 @@ npm install
 NEXT_PUBLIC_API_URL=http://localhost:8000 npm run dev
 ```
 
-## API
+## 📡 API
 
 - `POST /upload-cv` uploads and parses a PDF or DOCX CV, max 5MB.
 - `POST /roast` streams an SSE roast for a `session_id`.
@@ -102,11 +109,11 @@ NEXT_PUBLIC_API_URL=http://localhost:8000 npm run dev
 - `POST /hall-of-shame/{id}/submit` publishes a roast anonymously.
 - `POST /hall-of-shame/{id}/upvote` upvotes a public roast.
 
-## Data and Safety
+## 🔒 Data and Safety
 
 The app never stores uploaded files. It extracts text, sanitizes it, labels likely CV sections, stores only text plus roast metadata, and rate limits roast and upload requests per IP.
 
-## Notes
+## 📝 Notes
 
 - The animated header is an SVG asset in this repo, so the README stays lightweight and portable.
 - If you want a real product demo video later, you can drop one into the frontend public folder and embed it here.
